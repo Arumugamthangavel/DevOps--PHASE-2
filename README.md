@@ -261,9 +261,8 @@ Only the syntax changes.
 
 # Portfolio projects
 
-Instead of lots of tiny demos, aim for a few polished repositories.
 
-### 1. DevOps Deployment Platform ⭐⭐⭐⭐⭐
+### 1. DevOps Deployment Platform ******
 
 ```
 FastAPI
@@ -417,34 +416,17 @@ A recruiter can clone the repo and see the full pipeline.
 
 # Weekly routine while job hunting
 
-You mentioned something that stood out:
+ this will stood out:
 
 > "My only work is applying and looking at an empty email box."
 
-That's a difficult loop because every day depends on someone else's decision. Breaking it with a routine gives you progress you control.
+That's a difficult loop because every day depends on someone else's decision. Breaking it with a routine gives progress control.
 
 A practical weekday rhythm could look like this:
 
-* **1 hour:** Apply to 10 to 15 relevant jobs and tailor your resume where it matters.
-* **2 hours:** Build or improve your current project.
+* **1 hour:** Apply to 10 to 15 relevant jobs and tailor resume where it matters.
+* **2 hours:** Build or improve current project.
 * **1 hour:** Learn one focused topic, such as FastAPI authentication or Kubernetes Ingress.
 * **30 minutes:** Solve a small Python or SQL problem.
-* **30 minutes:** Update GitHub with a meaningful commit and improve your README.
+* **30 minutes:** Update GitHub with a meaningful commit and improve README.
 
-By the end of a month, you might still be waiting on interview calls, but you'll also have 100+ commits, several complete projects, and a portfolio that keeps getting stronger.
-
-## My suggestion
-
-If I were planning your next six months, I would not enroll in a full .NET course immediately.
-
-I would follow this sequence:
-
-1. Deepen Python for automation.
-2. Learn Flask, then FastAPI.
-3. Build production-style APIs.
-4. Connect those APIs to Docker, Jenkins, Kubernetes, and AWS.
-5. Learn enough ASP.NET Core Web API to understand the Microsoft ecosystem and recreate one of your existing APIs in C#.
-
-That path builds directly on what you already know instead of starting from scratch. It also positions you well for roles that blur the line between development and operations: DevOps Engineer, Platform Engineer, Cloud Engineer, SRE, or Infrastructure Automation Engineer.
-
-Given your interests and your existing DevOps foundation, I think we can turn this into a structured curriculum called **"DevOps+ Engineering"**: a 12 to 16 week roadmap where every new concept immediately plugs into a real deployment pipeline. By the end, you'd have a cohesive portfolio rather than a collection of unrelated tutorials.
