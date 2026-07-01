@@ -238,7 +238,7 @@ Monitor your API.
 
 # Where .NET fits
 
-After you understand how APIs are designed, learning ASP.NET Core becomes much easier because the concepts stay the same.
+After understand how APIs are designed, learning ASP.NET Core becomes much easier because the concepts stay the same.
 
 Build the same API in:
 
@@ -248,7 +248,7 @@ Build the same API in:
 
 Then compare them.
 
-You'll start noticing that:
+ start noticing that:
 
 * routing is similar
 * dependency injection exists in different forms
