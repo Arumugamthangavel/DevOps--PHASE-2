@@ -1,7 +1,7 @@
 
 ---
 
-# 📅 Day 1: Python Environment & Project Setup
+#  Day 1: Python Environment & Project Setup
 
 **Time Required:** 1.5 to 2 hours
 
