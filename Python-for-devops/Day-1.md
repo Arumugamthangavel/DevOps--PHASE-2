@@ -400,4 +400,3 @@ The foundation you're building today scales directly into automation scripts for
 * ✅ Create `app.py`
 * ✅ Run `python app.py` successfully
 
-If you complete these comfortably, you'll be ready for **Day 2**, where you'll learn file handling and build your first practical automation that reads server configuration from files.
