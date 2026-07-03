@@ -10,7 +10,7 @@ By the end of today you'll understand how Python projects are isolated, how pack
 
 ---
 
-# Step 1: Verify Python Installation
+## Step 1: Verify Python Installation
 
 Open **PowerShell** or **Command Prompt**
 
@@ -38,7 +38,7 @@ pip 25.x
 
 ---
 
-## Why?
+### Why?
 
 Python is the language.
 
