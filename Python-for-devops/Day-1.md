@@ -266,7 +266,7 @@ idna
 
 ---
 
-# Step 8: Save Dependencies
+## Step 8: Save Dependencies
 
 ```powershell
 pip freeze > requirements.txt
@@ -290,7 +290,7 @@ urllib3==...
 
 ---
 
-## Why?
+### Why?
 
 Imagine another developer clones your project.
 
@@ -310,7 +310,7 @@ This is exactly how real DevOps projects are shared.
 
 ---
 
-# Step 9: Create app.py
+## Step 9: Create app.py
 
 Inside
 
@@ -383,20 +383,20 @@ server-monitor/
 └── logs/
 ```
 
-The foundation you're building today scales directly into automation scripts for AWS, Kubernetes, Jenkins, Docker, and more.
+This foundation scales directly into automation scripts for AWS, Kubernetes, Jenkins, Docker, and more.
 
 ---
 
 # Today's Practice Checklist
 
-* ✅ Verify `python --version`
-* ✅ Verify `pip --version`
-* ✅ Create `server-monitor` folder
-* ✅ Create a virtual environment with `python -m venv venv`
-* ✅ Activate the virtual environment
-* ✅ Install the `requests` package
-* ✅ Check installed packages with `pip list`
-* ✅ Generate `requirements.txt` using `pip freeze > requirements.txt`
-* ✅ Create `app.py`
-* ✅ Run `python app.py` successfully
+*  Verify `python --version`
+*  Verify `pip --version`
+*  Create `server-monitor` folder
+*  Create a virtual environment with `python -m venv venv`
+*  Activate the virtual environment
+*  Install the `requests` package
+*  Check installed packages with `pip list`
+*  Generate `requirements.txt` using `pip freeze > requirements.txt`
+*  Create `app.py`
+*  Run `python app.py` successfully
 
