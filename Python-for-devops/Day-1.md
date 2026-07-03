@@ -62,7 +62,7 @@ pip install requests
 
 ---
 
-# Step 2: Create Project Folder
+## Step 2: Create Project Folder
 
 Open PowerShell
 
@@ -92,7 +92,7 @@ depending on shell.
 
 ---
 
-# Step 3: Create Virtual Environment
+## Step 3: Create Virtual Environment
 
 Run
 
@@ -110,7 +110,7 @@ server-monitor/
 
 ---
 
-## What happened?
+### What happened?
 
 Python copied a small isolated environment.
 
@@ -135,7 +135,7 @@ Everything installed later stays here.
 
 ---
 
-## Why DevOps Engineers Love Virtual Environments
+### Why DevOps Engineers Love Virtual Environments
 
 Imagine
 
@@ -163,7 +163,7 @@ Virtual environments isolate dependencies, preventing conflicts.
 
 ---
 
-# Step 4: Activate Virtual Environment
+## Step 4: Activate Virtual Environment
 
 Windows
 
@@ -189,7 +189,7 @@ means Python is using the isolated environment.
 
 ---
 
-# Step 5: Check Python Again
+## Step 5: Check Python Again
 
 Run
 
@@ -213,7 +213,7 @@ instead of the global installation.
 
 ---
 
-# Step 6: Install Your First Package
+## Step 6: Install Your First Package
 
 ```powershell
 pip install requests
@@ -229,7 +229,7 @@ Successfully installed requests
 
 ---
 
-## What is Requests?
+### What is Requests?
 
 One of the most used Python libraries.
 
@@ -246,7 +246,7 @@ Almost every DevOps automation uses it.
 
 ---
 
-# Step 7: Verify Installation
+## Step 7: Verify Installation
 
 ```powershell
 pip list
