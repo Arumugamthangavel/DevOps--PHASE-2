@@ -610,6 +610,26 @@ This pattern is very close to real DevOps scripts that process server inventorie
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Today's Practice Tasks
 
 1. Create `servers.txt` with 5 server names and print them one by one.
@@ -623,6 +643,20 @@ This pattern is very close to real DevOps scripts that process server inventorie
 2. Checking server2...
 3. Checking server3...
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
