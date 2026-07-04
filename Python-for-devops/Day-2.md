@@ -473,6 +473,11 @@ This pattern is very close to real DevOps scripts that process server inventorie
 3. Checking server3...
 ```
 
+
+
+
+
+
 ---
 
 ## Key Takeaways
