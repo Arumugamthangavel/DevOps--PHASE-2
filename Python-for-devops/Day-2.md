@@ -479,7 +479,7 @@ print(os.listdir())
 
 ---
 
-## Better Way: Pathlib ⭐
+## Better Way: Pathlib 
 
 Modern Python uses
 
