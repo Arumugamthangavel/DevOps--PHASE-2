@@ -1,7 +1,7 @@
 # Day 2: File Handling for DevOps 
 ---
 
-# Why File Handling?
+## Why File Handling?
 
 Imagine you're managing **200 servers**.
 
@@ -30,7 +30,7 @@ This is everywhere in DevOps:
 
 ---
 
-# 1. Reading Files
+### 1. Reading Files
 
 Suppose we have
 
@@ -110,7 +110,7 @@ Close book
 
 ---
 
-# Better Way
+## Better Way
 
 Python has a safer method.
 
@@ -133,7 +133,7 @@ This is the preferred DevOps style.
 
 ---
 
-# Reading Line by Line
+## Reading Line by Line
 
 Instead of reading the whole file
 
@@ -179,7 +179,7 @@ server3
 
 ---
 
-# 2. Writing Files
+### 2. Writing Files
 
 Create a new file.
 
@@ -245,7 +245,7 @@ Old content disappeared.
 
 ---
 
-# 3. Append
+### 3. Append
 
 Suppose
 
@@ -289,7 +289,7 @@ Perfect for
 
 ---
 
-# File Modes
+## File Modes
 
 | Mode | Meaning                           |
 | ---- | --------------------------------- |
@@ -300,7 +300,7 @@ Perfect for
 
 ---
 
-# 4. Working with Folders
+### 4. Working with Folders
 
 Import
 
@@ -328,7 +328,7 @@ print(os.listdir())
 
 ---
 
-# Better Way: Pathlib ⭐
+## Better Way: Pathlib ⭐
 
 Modern Python uses
 
@@ -366,7 +366,7 @@ True
 
 ---
 
-# Why Pathlib?
+## Why Pathlib?
 
 Old way
 
@@ -386,7 +386,7 @@ Different operating systems use different path separators.
 
 ---
 
-# Mini Project (Very Common DevOps Task)
+## Mini Project (Very Common DevOps Task)
 
 Create
 
@@ -422,7 +422,7 @@ Checking server3...
 
 ---
 
-# Small Upgrade
+## Small Upgrade
 
 Save the results into a log file.
 
@@ -459,7 +459,7 @@ This pattern is very close to real DevOps scripts that process server inventorie
 
 ---
 
-# Today's Practice Tasks
+## Today's Practice Tasks
 
 1. Create `servers.txt` with 5 server names and print them one by one.
 2. Create `status.txt` and write `"Deployment Started"`.
