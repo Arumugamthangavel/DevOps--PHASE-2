@@ -42,12 +42,6 @@ server2
 server3
 ```
 
-
-
-
-
-
-
 Python
 
 ```python
