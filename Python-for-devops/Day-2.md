@@ -1,4 +1,4 @@
-# Day 2: File Handling for DevOps (2-3 Hours)
+# Day 2: File Handling for DevOps 
 
 ---
 
@@ -489,4 +489,3 @@ This pattern is very close to real DevOps scripts that process server inventorie
 | `Path.exists()`          | Check if a file or directory exists              |
 | `Path.mkdir()`           | Create directories for logs, backups, or reports |
 
-Once you're comfortable with file handling, the next step is **Day 3: JSON & YAML**, where you'll learn to read and modify configuration files such as Kubernetes manifests, Docker Compose files, and application configs, which are core building blocks in DevOps.
