@@ -1,20 +1,6 @@
 # Day 2: File Handling for DevOps 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Why File Handling?
 
 Imagine you're managing **200 servers**.
