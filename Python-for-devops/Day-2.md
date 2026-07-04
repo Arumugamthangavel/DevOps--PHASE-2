@@ -1,6 +1,16 @@
 # Day 2: File Handling for DevOps 
 ---
 
+
+
+
+
+
+
+
+
+
+
 ## Why File Handling?
 
 Imagine you're managing **200 servers**.
@@ -179,6 +189,49 @@ server3
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 2. Writing Files
 
 Create a new file.
@@ -245,6 +298,41 @@ Old content disappeared.
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 3. Append
 
 Suppose
@@ -299,6 +387,69 @@ Perfect for
 | x    | Create only if file doesn't exist |
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 4. Working with Folders
 
