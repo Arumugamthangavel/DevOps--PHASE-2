@@ -1,5 +1,4 @@
 # Day 2: File Handling for DevOps 
-
 ---
 
 # Why File Handling?
