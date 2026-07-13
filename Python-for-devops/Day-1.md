@@ -6,7 +6,7 @@
 **Time Required:** 1.5 to 2 hours
 
 **Goal:**
-By the end of today you'll understand how Python projects are isolated, how packages are managed, and how every real-world Python project starts.
+By the end of today, understandi how Python projects are isolated, how packages are managed, and how every real-world Python project starts.
 
 ---
 
