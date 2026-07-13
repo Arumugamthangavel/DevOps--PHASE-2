@@ -312,6 +312,75 @@ This is exactly how real DevOps projects are shared.
 
 ## Step 9: Create app.py
 
+there are several ways to create `app.py`.
+
+### Method 1 (Recommended)
+
+Navigate to your project folder:
+
+```cmd
+cd path\to\server-monitor
+```
+
+Create the file:
+
+```cmd
+type nul > app.py
+```
+
+Verify it was created:
+
+```cmd
+dir
+```
+
+You should see:
+
+```text
+app.py
+```
+
+---
+
+### Method 2 (Create and edit with Notepad)
+
+```cmd
+notepad app.py
+```
+
+If the file doesn't exist, Notepad will ask if you want to create it. Click **Yes**.
+
+Then add:
+
+```python
+print("Server Monitor Started")
+```
+
+Save the file (`Ctrl + S`) and close Notepad.
+
+---
+
+### Method 3 (Using echo)
+
+This creates the file and writes the code in one command:
+
+```cmd
+echo print("Server Monitor Started") > app.py
+```
+
+Run it:
+
+```cmd
+python app.py
+```
+
+Output:
+
+```text
+Server Monitor Started
+```
+____________________________________________________________
+
 Inside
 
 ```
