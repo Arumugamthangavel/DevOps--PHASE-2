@@ -379,6 +379,7 @@ Output:
 ```text
 Server Monitor Started
 ```
+XXXXXXXXXXXXXXXXXXXXXXXXX
 ____________________________________________________________
 
 Inside
